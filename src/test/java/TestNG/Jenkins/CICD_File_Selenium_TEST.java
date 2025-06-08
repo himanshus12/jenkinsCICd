@@ -28,4 +28,10 @@ System.out.println("QA");
 	}
 	
 	
+	@Test
+	public void print2() {
+System.out.println("QA2");
+
+	}
+	
 }
